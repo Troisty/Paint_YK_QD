@@ -1,2 +1,3 @@
-# Paint_YK_QD
-Projet POO
+# miniproject-isen
+DETHY Quentin
+KERDJOU Yowan
