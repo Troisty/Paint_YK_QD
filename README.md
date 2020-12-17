@@ -11,8 +11,9 @@ Le projet a été codé sur l'éditeur de texte.
 Le projet a été compilé avec un makefile.
 Il est fourni avec :
 - Un makefile compilant tous les programmes
-- Tous les fichiers précompilé (.cpp / .h / .o)
-- Un éxécutable fonctionnel et prêt a l'emploi "FigureCreator".
+- Tous les fichiers (.cpp / .h / makefile)
+- L'executable s'appelle "FigureCreator" et doit être généré avec le "makefile" via la commande "make".
+- Ajouter un image qui s'appelle "Figure_draw.bmp".
 
 Resume du fonctionnement:
 - Choix de la couleur, de la taille, de la position, de l'epaisseur(pour certaines figures) disponible
