@@ -1,16 +1,16 @@
-#include <iostream>
-#include <string>
 
-#include "Drawing.h"
 
-const int width = 300;
-const int height = 400;
+#include "Menu.h"
+
+
+
+
 
 int main(int argc, char **argv) {
 
-  Drawing draw(width, height);
+ Menu figure_draw;
+  figure_draw.run(); 
 
-  draw.save(std::string("test_image.bmp"));
-
+  std::cout << "End" << std::endl;
   return 0;
 }

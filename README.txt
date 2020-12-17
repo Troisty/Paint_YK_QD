@@ -1,2 +1,0 @@
-Yowan Kerdjou
-Quentin Dethy
